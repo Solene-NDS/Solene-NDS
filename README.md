@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je suis Solène N'DAH-SEKOU 👋</h1>
 
 <p align="center">
-  <em>Étudiante ingénieure en Informatique @ EFREI Paris — Data Science & IA</em>
+  <em>Étudiante ingénieure en Informatique EFREI Paris </em>
 </p>
 
 ---
