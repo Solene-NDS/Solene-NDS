@@ -37,6 +37,7 @@
 | [🚗 EFREI Covoiturage](https://github.com/Solene-NDS/Efrei-covoiturage) | Plateforme de covoiturage étudiante | Vue.js · Node.js · Express · SQLite |
 | [📚 Bibliothèque en ligne](https://github.com/Solene-NDS/Biblioth-que-en-ligne) | Site de gestion de bibliothèque | HTML · CSS · JS · Node.js · SQLite |
 | [🧠 CNN MNIST](https://github.com/Solene-NDS/CNN-classification-MNIST) | Réseaux de neurones convolutifs | Python · NumPy · Deep Learning |
+| [🚚 Transport RO](https://github.com/Solene-NDS/transport-recherche-operationnelle) | Problème de transport — Algorithmes Nord-Ouest, Balas-Hammer | Python · NumPy |
 
 ---
 
